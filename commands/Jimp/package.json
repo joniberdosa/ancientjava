@@ -1,0 +1,15 @@
+{
+  "name": "imgtext",
+  "version": "1.0.0",
+  "description": "image generator",
+  "main": "index.js",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
